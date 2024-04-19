@@ -22,7 +22,7 @@ class Smiley extends Phaser.Scene {
         
         this.counter = 0;
         this.smileType = 'Smile';
-        this.pKey = null;
+       // this.pKey = null;
     }
 
     // Use preload to load art and sound assets before the scene starts running.
